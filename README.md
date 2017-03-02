@@ -1,5 +1,5 @@
 # Process Image Demo
-Example raw code for processing images in a classic Web Api
+Example raw code for processing images in a classic Web Api, Everything in the repo is boilerplate code, the code you are interested in on the Controllers Directory called **ImagesController**
 
 # Client for testing
 ## Postman
