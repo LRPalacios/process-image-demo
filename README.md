@@ -4,7 +4,7 @@ Example raw code for processing images in a classic Web Api
 # Client for testing
 ## Postman
 
-![How to test from postman](http://pasteboard.co/EDjFXn9WO.png "How to test from postman")
+![How to test from postman](https://cdn.pbrd.co/images/EDjFXn9WO.png "How to test from postman")
 
 # Author
 Luis Palacios
